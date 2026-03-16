@@ -1,6 +1,10 @@
 # Google-Course-SQL-Queries
 Google Cybersecurity Course's Filter SQL Queries
 
+In this activity, I filtered SQL queries to investigate and analyze data tables.
+
+Filtering SQL queries allows security analysts to easily examine tables by only displaying what is needed. 
+
 # Scenario 
 You are a security professional at a large organization. Part of your job is to investigate security issues to help keep the system secure. You recently discovered some potential security issues that involve login attempts and employee machines.
 
